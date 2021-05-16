@@ -1,5 +1,5 @@
 # loginout
-
+Check out [the tutorial](https://www.smashingmagazine.com/2020/10/authentication-in-vue-js/)
 ## Project setup
 ```
 npm install
